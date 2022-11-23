@@ -1,0 +1,58 @@
+[
+    {
+      "id": "637cf1be69501e648f423ad8",
+      "index": 0,
+      "picture": "https://img.freepik.com/free-psd/black-t-shirt-mockup_125540-430.jpg?size=626&ext=jpg&ga=GA1.2.1373249278.1658057178",
+      "price": 38,
+      "name": "Thelma Velazquez",
+      "gender": "female"
+    },
+    {
+      "id": "637cf1beece7590c5686df42",
+      "index": 1,
+      "picture": "https://img.freepik.com/free-psd/white-t-shirt-model-front-view-mockup_125540-861.jpg?size=626&ext=jpg&ga=GA1.2.1373249278.1658057178",
+      "price": 39,
+      "name": "Hobbs Lester",
+      "gender": "male"
+    },
+    {
+      "id": "637cf1be71e67413d6c199fd",
+      "index": 2,
+      "picture": "https://img.freepik.com/free-psd/black-hoodie-mockup_125540-877.jpg?size=626&ext=jpg&ga=GA1.2.1373249278.1658057178",
+      "price": 32,
+      "name": "Sheila Coleman",
+      "gender": "female"
+    },
+    {
+      "id": "637cf1be6acbde09053df2e5",
+      "index": 3,
+      "picture": "https://img.freepik.com/free-psd/green-front-sweater-mockup_125540-575.jpg?size=626&ext=jpg&uid=R85365791&ga=GA1.2.1373249278.1658057178",
+      "price": 35,
+      "name": "Molina Gregory",
+      "gender": "male"
+    },
+    {
+      "id": "637cf1bed77fa093c14a39c4",
+      "index": 4,
+      "picture": "https://img.freepik.com/free-vector/front-t-shirt-with-vulture-template_1308-78978.jpg?size=626&ext=jpg&uid=R85365791&ga=GA1.2.1373249278.1658057178",
+      "price": 23,
+      "name": "Alyce Morris",
+      "gender": "female"
+    },
+    {
+      "id": "637cf1bed51f3da85286075e",
+      "index": 5,
+      "picture": "https://img.freepik.com/free-psd/mens-short-sleeve-t-shirt-mockups_126278-122.jpg?size=338&ext=jpg&uid=R85365791&ga=GA1.2.1373249278.1658057178",
+      "price": 37,
+      "name": "Haley Holland",
+      "gender": "male"
+    },
+    {
+      "id": "637cf1be5bbcdd4246614988",
+      "index": 6,
+      "picture": "https://img.freepik.com/free-psd/black-front-sweater-mockup_125540-570.jpg?size=626&ext=jpg&uid=R85365791&ga=GA1.2.1373249278.1658057178",
+      "price": 18,
+      "name": "Cathy Bauer",
+      "gender": "female"
+    }
+  ]
