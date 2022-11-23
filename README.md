@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TShirt Mania
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site [https://tshirt-mania-wali.netlify.app/](https://tshirt-mania-wali.netlify.app/).
 
 ## Available Scripts
 
